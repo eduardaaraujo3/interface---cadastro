@@ -1,0 +1,3 @@
+Nome: Patricia Ramos, Número: 84997865434, Email: ramos@gmail.com, Endereço: Rua Cinderella 123, Cargo: TI, Turno: Tarde
+Nome: Simone Oliveira, Número: 84998765443, Email: soliveira@gmail.com, Endereço: Rua Dr Alberto 78, Cargo: TI, Turno: Noite
+Nome: Paulo Araújo, Número: 84998753892, Email: araujopaul@gmail.com, Endereço: Rua da Praça 67, Cargo: TI, Turno: Tarde
